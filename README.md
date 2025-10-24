@@ -5,3 +5,5 @@ NIM : H1D023081
 Shift Baru : F
 Shift Lama : F
 
+### Aplikasi
+![Teks alternatif](reponsi1.gif)
