@@ -8,3 +8,8 @@ Shift Lama : F
 ### Aplikasi
 
 ![Teks alternatif](responsi1.gif)
+
+---------
+
+Penjelasan:
+Aplikasi ini mengimplementasikan arsitektur MVVM (Model-View-ViewModel) dengan Repository Pattern, menggunakan Retrofit untuk jaringan dan Kotlin Coroutines untuk eksekusi asinkron, memastikan pemisahan tugas dan kinerja yang baik. Pola ini memisahkan tanggung jawab data, logika, dan tampilan secara jelas.
