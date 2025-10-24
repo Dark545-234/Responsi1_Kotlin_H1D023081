@@ -6,4 +6,5 @@ Shift Baru : F
 Shift Lama : F
 
 ### Aplikasi
-![Teks alternatif](reponsi1.gif)
+
+![Teks alternatif](responsi1.gif)
